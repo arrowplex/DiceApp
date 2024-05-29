@@ -3,6 +3,7 @@
 #include <vector>
 #include <unordered_map>
 #include <limits>
+#include <algorithm>
 #include "diceCup.h"
 
 class DiceTray {

@@ -1,6 +1,7 @@
 #include <iostream>
 #include <random>
 #include <vector>
+#include <ctime>
 #include "dice.h"
 
 class DiceCup {
